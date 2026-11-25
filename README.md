@@ -2,6 +2,7 @@
 
 [![Canonical Tag Validator](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/au/canonical-tag-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audits canonical links, duplicate tag prevention, absolute URL verification, and crawl budget protection.
 
@@ -57,6 +58,11 @@ For platforms operating across Australia and the APAC region under W3C Standards
 * **Corporate Portal:** https://ag.tavardt.com/au/
 * **Diagnostic Suite:** https://tools.tavardt.com/au/
 * **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
